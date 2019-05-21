@@ -1,0 +1,5 @@
+<application>
+  <component name="SolhintProjectComponent">
+    <option name="nodePath" value="node" />
+  </component>
+</application>
