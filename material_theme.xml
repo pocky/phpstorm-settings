@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isMaterialTheme" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="19" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="506164d1:16c2ed13e27:-8000" />
+    <option name="version" value="4.2" />
+  </component>
+</application>
