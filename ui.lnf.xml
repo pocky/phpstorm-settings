@@ -2,7 +2,6 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
