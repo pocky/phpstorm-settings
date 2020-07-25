@@ -16,5 +16,6 @@
     <mask>*.js</mask>
     <mask>*.orm.xml</mask>
     <mask>*.xml</mask>
+    <mask>*Interface.php</mask>
   </component>
 </application>
