@@ -21,5 +21,6 @@
     <mask>Action.php</mask>
     <mask>.php</mask>
     <mask>.xml</mask>
+    <mask>.twig</mask>
   </component>
 </application>
