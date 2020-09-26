@@ -19,7 +19,8 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>Action.php</mask>
-    <mask>.xml</mask>
     <mask>.php</mask>
+    <mask>.xml</mask>
+    <mask>.twig</mask>
   </component>
 </application>
