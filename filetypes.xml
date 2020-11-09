@@ -6,14 +6,15 @@
       <mapping pattern="symfony" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="dbdump" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="dbdump" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="yaml " type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
