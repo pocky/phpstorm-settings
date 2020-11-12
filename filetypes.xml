@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ProductTypeExtension" type="AUTO_DETECTED" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".giignore" type="PLAIN_TEXT" />
       <mapping pattern="symfony" type="PLAIN_TEXT" />
