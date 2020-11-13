@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="51.91.127.214" id="efe21537-1366-4d75-8877-bb212a0d4457" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="debian" />
+    </configs>
+  </component>
+</application>

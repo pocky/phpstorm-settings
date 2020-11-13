@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
     <mask>*.php4</mask>
@@ -15,5 +14,16 @@
     <mask>*.module</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.orm.xml</mask>
+    <mask>*Interface.php</mask>
+    <mask>*.yml</mask>
+    <mask>*.xml</mask>
+    <mask>Action.php</mask>
+    <mask>.php</mask>
+    <mask>.xml</mask>
+    <mask>.twig</mask>
+    <mask>.html.twig</mask>
+    <mask>yml</mask>
+    <mask>yaml</mask>
   </component>
 </application>
