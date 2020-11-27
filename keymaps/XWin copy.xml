@@ -1,0 +1,19 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl left_parenthesis" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl ampersand" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl #10000e9" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="ctrl quotedbl" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+</keymap>
