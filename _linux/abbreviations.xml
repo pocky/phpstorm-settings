@@ -4,6 +4,7 @@
       <action id="OpenInBrowser">
         <abbreviation name="b" />
       </action>
+      <action id="ActivateTerminalToolWindow" />
     </abbreviations>
   </component>
 </application>
