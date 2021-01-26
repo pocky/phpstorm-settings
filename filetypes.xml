@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="AGPLv3" type="AUTO_DETECTED" />
+      <mapping pattern="GPLv3" type="AUTO_DETECTED" />
       <mapping pattern="configure" type="AUTO_DETECTED" />
+      <mapping pattern="EUPLv1-2" type="AUTO_DETECTED" />
+      <mapping pattern="MIT" type="AUTO_DETECTED" />
       <mapping pattern="download" type="AUTO_DETECTED" />
       <mapping pattern="ProductTypeExtension" type="AUTO_DETECTED" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
