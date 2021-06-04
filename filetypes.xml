@@ -1,28 +1,35 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="AGPLv3" type="AUTO_DETECTED" />
+      <mapping pattern="GPLv3" type="AUTO_DETECTED" />
+      <mapping pattern="configure" type="AUTO_DETECTED" />
+      <mapping pattern="EUPLv1-2" type="AUTO_DETECTED" />
+      <mapping pattern="MIT" type="AUTO_DETECTED" />
+      <mapping pattern="download" type="AUTO_DETECTED" />
       <mapping pattern="ProductTypeExtension" type="AUTO_DETECTED" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".giignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="symfony" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="dbdump" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="dbdump" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
-      <mapping ext="yaml " type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
-      <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
-      <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yaml " approved="true" type="YAML" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
